@@ -131,3 +131,19 @@ footer {
 .spaced {
   margin-bottom: 30px;
 }
+
+.call-to-action {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 1.1rem;
+}
+
+.call-to-action a {
+  color: #e63946;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.call-to-action a:hover {
+  text-decoration: underline;
+}
